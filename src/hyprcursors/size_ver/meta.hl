@@ -1,0 +1,11 @@
+resize_algorithm = none
+hotspot_x = 0.67
+hotspot_y = 0.67
+
+define_size = 24, size_ver.svg, 50
+
+define_override = sb_v_double_arrow
+define_override = v_double_arrow
+define_override = 00008160000006810000408080010102
+define_override = n-resize
+define_override = s-resize
